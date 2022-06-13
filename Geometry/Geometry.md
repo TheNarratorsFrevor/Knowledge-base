@@ -1,0 +1,2 @@
+[[Axioms]][[Basic theorems]]
+
