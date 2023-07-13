@@ -24,6 +24,9 @@ Also in **FD** column numbers like **1u** is actual file descriptor and foll
 
 **TYPE** – of files and it’s identification.
 
+
+
+
 1. **DIR** – Directory
 2. **REG** – Regular file
 3. **CHR** – Character special file.

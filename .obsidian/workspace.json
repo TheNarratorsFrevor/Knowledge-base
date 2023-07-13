@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "70a8e66a1e21d574",
+        "id": "5ad92ed66520ff42",
         "type": "tabs",
         "children": [
           {
-            "id": "37ede5411ba280cf",
+            "id": "6835b3a79e2456f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -109,13 +109,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37ede5411ba280cf",
+  "active": "6835b3a79e2456f8",
   "lastOpenFiles": [
+    "Programming/Devops/lsof Cheatsheet.md",
+    "Programming/C/C 40 - Atomics.md",
     "Math/Logarithms.md",
     "Math/Functions.md",
     "Home.md",
     "Programming/Linux.md",
-    "Programming/Devops/lsof Cheatsheet.md",
     "Programming/Devops/Devops.md",
     "README.md",
     "Untitled.md",

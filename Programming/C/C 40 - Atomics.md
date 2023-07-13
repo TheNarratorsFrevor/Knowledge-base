@@ -13,6 +13,8 @@ But I won’t go down those paths. Not only am I barely qualified to even write 
 
 But there are some weird things out here even in the basics. So buckle your seatbelts, everyone, ‘cause Kansas is goin’ bye-bye.
 
+
+
 ## 40.1 Testing for Atomic Support
 
 Atomics are an optional feature. There’s a macro `__STDC_NO_ATOMICS__` that’s `1` if you _don’t_ have atomics.
