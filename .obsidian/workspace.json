@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "3c13798836e5e80a",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a8e66a1e21d574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ede5411ba280cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d8a20a29173396f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67d3257ccb7f404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c012a2c197f616a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40352b168d32d5b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c614c82a967128d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e3f3b6800847cbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5367ef394f45a34f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e08017fc51d2cb5a",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "37ede5411ba280cf",
+  "lastOpenFiles": [
+    "Math/Logarithms.md",
+    "Math/Functions.md",
+    "Home.md",
+    "Programming/Linux.md",
+    "Programming/Devops/lsof Cheatsheet.md",
+    "Programming/Devops/Devops.md",
+    "README.md",
+    "Untitled.md",
+    "Programming/Devops",
+    "Geometry/Intercept theorem.md",
+    "Programming/C/C 43 - <complex.h>.md",
+    "Programming/C/C 45 - <errno.h>.md",
+    "Programming/C/C 49 - <iso646.h>.md",
+    "Programming/C/C 53 - <setjmp.h>.md",
+    "Programming/C/C 63 - <stdnoreturn.h>.md",
+    "Programming/C/C 59 - <stddef.h>.md",
+    "Programming/C/Cricle tangent angle.md",
+    "Programming/C/C 62 - <stdlib.h>.md",
+    "Programming/C/C 12 - Manual memory allocation.md"
+  ]
+}
