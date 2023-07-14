@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5ad92ed66520ff42",
+        "id": "cc6370b3cc822a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "6835b3a79e2456f8",
+            "id": "35cdbc6dcb6dc32e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -109,8 +109,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6835b3a79e2456f8",
+  "active": "35cdbc6dcb6dc32e",
   "lastOpenFiles": [
+    "Programming/Haskell/Functional problem solving.md",
     "Programming/Devops/lsof Cheatsheet.md",
     "Programming/C/C 40 - Atomics.md",
     "Math/Logarithms.md",
