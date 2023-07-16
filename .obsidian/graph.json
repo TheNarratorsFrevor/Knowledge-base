@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "section:(haskell)",
@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 3816840
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.59882352941176,
-  "lineSizeMultiplier": 1.91588235294118,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 2.24375,
+  "lineSizeMultiplier": 3.29010416666667,
   "collapse-forces": false,
-  "centerStrength": 0.2,
-  "repelStrength": 6.58823529411765,
-  "linkStrength": 0,
-  "linkDistance": 237,
-  "scale": 0.12688258148167753,
+  "centerStrength": 0.34375,
+  "repelStrength": 10.7291666666667,
+  "linkStrength": 0.166666666666667,
+  "linkDistance": 62,
+  "scale": 0.642343068750991,
   "close": true
 }
