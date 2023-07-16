@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6370b3cc822a0e",
+        "id": "5e7bbd364fb7e229",
         "type": "tabs",
         "children": [
           {
-            "id": "35cdbc6dcb6dc32e",
+            "id": "9dbe6d3da2734c6c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -109,7 +109,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35cdbc6dcb6dc32e",
+  "active": "9dbe6d3da2734c6c",
   "lastOpenFiles": [
     "Programming/Haskell/Functional problem solving.md",
     "Programming/Devops/lsof Cheatsheet.md",
