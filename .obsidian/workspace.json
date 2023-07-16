@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb43db80422d05e",
+        "id": "6d1a6b0099fe770f",
         "type": "tabs",
         "children": [
           {
-            "id": "42ca749c9cc0a83a",
+            "id": "969cb4cc8d395c09",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -109,15 +109,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42ca749c9cc0a83a",
+  "active": "969cb4cc8d395c09",
   "lastOpenFiles": [
+    "AIX operating system.md",
+    "`nmon`.md",
+    "Programming/DevOPs/Performance monitoring.md",
+    "Programming/DevOPs/ps.md",
     "sed.md",
     "vmstat.md",
     "Programming/DevOPs/Devops.md",
-    "Programming/DevOPs/Performance monitoring.md",
-    "AIX operating system.md",
     "nmon.md",
-    "`nmon`.md",
     "Untitled.canvas",
     "Math/Inverse triogeometry functions.md",
     "exponential functions.md",
@@ -138,7 +139,6 @@
     "Programming/C/C 45 - <errno.h>.md",
     "Programming/C/C 49 - <iso646.h>.md",
     "Programming/C/C 53 - <setjmp.h>.md",
-    "Programming/C/C 63 - <stdnoreturn.h>.md",
-    "Programming/C/C 59 - <stddef.h>.md"
+    "Programming/C/C 63 - <stdnoreturn.h>.md"
   ]
 }
