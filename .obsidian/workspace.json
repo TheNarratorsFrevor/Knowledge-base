@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1a6b0099fe770f",
+        "id": "340e3db9045d8d11",
         "type": "tabs",
         "children": [
           {
-            "id": "969cb4cc8d395c09",
+            "id": "32ff2b50b579757f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -109,7 +109,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "969cb4cc8d395c09",
+  "active": "32ff2b50b579757f",
   "lastOpenFiles": [
     "AIX operating system.md",
     "`nmon`.md",
