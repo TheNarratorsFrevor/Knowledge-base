@@ -10,7 +10,7 @@ There are many tools available to monitor the performance of your application. S
 - `sar` - A system monitor command used to report on various system loads, including CPU activity, memory/paging, device load, network, [[sar]]
 - `vmstat` - A tool that reports virtual memory statistics, [[vmstat]]
 
-[[Nmon]] is a fully interactive performance monitoring command-line utility tool for Linux. It is a benchmark tool that displays performance about the [[cpu]], memory, [[network]], disks, [[file system]], [[nfs]], top processes, resources, and [[power micro-partition]].
+[[nmon]] is a fully interactive performance monitoring command-line utility tool for Linux. It is a benchmark tool that displays performance about the [[cpu]], memory, [[network]], disks, [[file system]], [[nfs]], top processes, resources, and [[power micro-partition]].
 
 - [nmon Documentation](https://www.ibm.com/docs/en/aix/7.2?topic=n-nmon-command)
 - [nmon Command Guide](https://www.geeksforgeeks.org/linux-nmon/)

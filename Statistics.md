@@ -1,0 +1,1 @@
+Basic elementary notions of statistics is required ([[permutation]], [[combination]], [[mean]], [[variance]] and [[frequency]]). Basic notions to read [[frequency diagrams]] and [[histograms]].

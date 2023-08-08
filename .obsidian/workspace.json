@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "340e3db9045d8d11",
+        "id": "800306e16ba06fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "32ff2b50b579757f",
+            "id": "0f8dde7840814962",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analytic geometry and numeric functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analytic geometry and numeric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,36 +114,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32ff2b50b579757f",
+  "active": "0f8dde7840814962",
   "lastOpenFiles": [
-    "AIX operating system.md",
-    "`nmon`.md",
-    "Programming/DevOPs/Performance monitoring.md",
-    "Programming/DevOPs/ps.md",
-    "sed.md",
-    "vmstat.md",
-    "Programming/DevOPs/Devops.md",
-    "nmon.md",
-    "Untitled.canvas",
-    "Math/Inverse triogeometry functions.md",
-    "exponential functions.md",
-    "Chess/Queen's Gambit.md",
-    "Chess",
-    "Programming/Haskell/Functional problem solving.md",
-    "Programming/DevOPs/lsof Cheatsheet.md",
-    "Programming/C/C 40 - Atomics.md",
+    "Chemistry and material structure.md",
+    "Oxidation-reduction.md",
+    "Solutions.md",
+    "Organic chemistry.md",
+    "Stoichiometry.md",
+    "Chemistry symbols.md",
+    "Electromagnetism.md",
+    "Thermodynamics.md",
+    "Optics.md",
+    "Mechanics.md",
+    "Statistics.md",
+    "Trigonometry.md",
+    "Analytic geometry and numeric functions.md",
     "Math/Logarithms.md",
     "Math/Functions.md",
+    "Mathematics, Arithmetic and Algebra.md",
+    "Logic and Reading Comprehension.md",
+    "TOLC-I",
     "Home.md",
-    "Programming/Linux.md",
     "README.md",
-    "Untitled.md",
-    "Programming/DevOPs",
-    "Geometry/Intercept theorem.md",
-    "Programming/C/C 43 - <complex.h>.md",
-    "Programming/C/C 45 - <errno.h>.md",
-    "Programming/C/C 49 - <iso646.h>.md",
-    "Programming/C/C 53 - <setjmp.h>.md",
-    "Programming/C/C 63 - <stdnoreturn.h>.md"
+    "Untitled.canvas",
+    "Programming/DevOPs/AIX operating system.md",
+    "Programming/DevOPs/`nmon`.md",
+    "Programming/DevOPs/Performance monitoring.md",
+    "Programming/DevOPs/ps.md",
+    "Programming/DevOPs/sed.md",
+    "Programming/DevOPs/vmstat.md",
+    "Programming/DevOPs/Devops.md",
+    "Chess",
+    "Programming/DevOPs"
   ]
 }

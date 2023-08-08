@@ -1,0 +1,1 @@
+Elementary knowledge of electrostatics ([[Coulomb’s law]], [[electrostatic field]] and [[condensers]]) and [[magnetostatics]] ([[electric intensity]], [[Ohm’s law]], [[magnetostatic field]]) is required. Also required, elementary knowledge of [[electromagnetic radiations]] and their propagation.

@@ -1,0 +1,1 @@
+ Knowledge of chemistry symbols is required as well as the meaning of [[chemical formula]] and equations.
