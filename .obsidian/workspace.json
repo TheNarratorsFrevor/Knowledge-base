@@ -11,12 +11,8 @@
             "id": "adf1a6e2dda3330d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +109,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "adf1a6e2dda3330d",
   "lastOpenFiles": [
+    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics",
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
     "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
-    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Thermodynamics/Entropy.md",
     "TOLC-I/Syllabus checklist.md",
     "**Analytic geometry and numeric functions.md",
