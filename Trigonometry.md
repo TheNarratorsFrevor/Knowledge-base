@@ -1,1 +1,0 @@
- Graphs and properties of [[sine]], [[cosine]] and [[tangent]]. [[The main trigonometric formulas]] (addition, subtraction, duplication, bisection). Trigonometric equations and inequalities. [[Relations between the elements of a triangle]].

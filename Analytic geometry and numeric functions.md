@@ -1,1 +1,0 @@
-[[Cartesian coordinates]]. The concept of [[Functions]]. [[Equations of lines and of simple loci]] (circles, ellipses, parabolas, etc.). Graphs and properties of elementary functions (powers, logarithms, exponentials, etc.). Calculations with [[logarithms]]. Equations and inequalities with logarithms or exponentials.

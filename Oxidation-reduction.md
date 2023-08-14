@@ -1,1 +1,0 @@
-Knowledge of the concepts of [[oxidation]] and [[reduction]] as well as elementary knowledge of the [[combustion]] reaction is requested.

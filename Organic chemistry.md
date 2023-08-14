@@ -1,1 +1,0 @@
- Knowledge of the structure of the more [[simple carbon compounds]] is required.

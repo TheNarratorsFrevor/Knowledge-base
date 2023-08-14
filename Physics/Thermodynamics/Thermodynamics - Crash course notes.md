@@ -3,11 +3,11 @@ Notes:
 - When a thermodynamic system does work, it loses heat,
 - When work is done on a thermodynamic system, it gains heat,
 - So heat is converted to work and work is converted to heat.
-### What is a Perpetual Motion machine?
+## What is a Perpetual Motion machine?
 
 It is a system that can have motion infinitely, which is impossible due to the first law of thermodynamics.
 
-### First law of Thermodynamics
+## First law of Thermodynamics
 
 The idea that the change in internal energy is equal to the change in work plus heat, is the fundamental idea of the first law of thermodynamics.
 
@@ -43,4 +43,17 @@ So when we add heat, volume goes up and the system does work, if we add pressure
 
 Systems where the temperature is held constant, usually by connecting the system to a much bigger system whose temperature would need a lot of heat to change. like a heat reservoir.
 Since the pressure does actually change this time, you'd need to make a more complex relationship:
+$$W = \int P \, dV $$
+And you're still calculating work, but you're taking into account the changes in pressure too.
+Another difference between isobaric and isothermal processes is that since the temperature is held constant in isothermal processes, the internal energy of the ideal gas cannot change. And thus:
+$$\Delta U = Q - W = 0 $$
+$$Q = W$$
 
+### Adiabatic processes
+
+This is where no heat is allowed to flow in or out of the system but the gas can expand or be compressed. Thus $Q = 0$, 
+$$\Delta U = - W$$
+
+## Second law of thermodynamics
+
+Because of [[Entropy]], Heat will spontaneously flow from something hotter to something colder, but not from something colder to something hotter.

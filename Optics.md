@@ -1,1 +1,0 @@
-Principles of geometric optics; [[reflection]], [[refraction]]; [[refractive index]]; [[prisms]]; [[mirrors]] and [[concave]] and [[convex]] lenses; elementary knowledge of [[lens systems]] and instruments.

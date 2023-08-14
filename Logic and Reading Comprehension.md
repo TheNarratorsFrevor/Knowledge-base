@@ -1,1 +1,0 @@
-The logic and reading comprehension questions seek to test in particular the candidate’s aptitude rather than the skills acquired in secondary school. Therefore, they do not require a specific preparation.

@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a625ec924244298d",
+        "id": "4590cace37d5ce42",
         "type": "tabs",
         "children": [
           {
-            "id": "78fdb965bbb0872e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "942e0480b0304721",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f511542270447c5c",
+            "id": "adf1a6e2dda3330d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics - Crash course notes.md",
+                "file": "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics - Crash course notes.md",
+                "file": "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e08017fc51d2cb5a",
@@ -132,36 +114,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f511542270447c5c",
+  "active": "c012a2c197f616a6",
   "lastOpenFiles": [
-    "Thermodynamics - Crash course notes.md",
+    "Physics/Black hole thermodynamics",
+    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
+    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
+    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
+    "Physics/Thermodynamics/Entropy.md",
+    "TOLC-I/Syllabus checklist.md",
+    "**Analytic geometry and numeric functions.md",
+    "TOLC-I/Analytic geometry and numeric functions.md",
+    "TOLC-I/Chemistry and material structure.md",
+    "TOLC-I/Oxidation-reduction.md",
+    "Physics/Electromagnetism",
+    "Physics/Thermodynamics",
+    "Physics",
+    "Physics/Thermodynamics/Macrostate.md",
+    "Physics/Thermodynamics/Microstates.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "TOLC-I/Thermodynamics.md",
+    "Physics/Thermodynamics/Thermodynamics - Crash course notes.md",
     "Geometry/Cartesian coordinates.md",
-    "Untitled",
-    "Analytic geometry and numeric functions.md",
     "Programming/DevOPs/`nmon`.md",
     "Untitled.canvas",
     "Programming/Programming.md",
-    "TOLC-I/Syllabus checklist.md",
     "Geometry/Cartesian equations.md",
     "Math/Distance formula.md",
     "Geometry/Cartesian plane.md",
     "Math/Ordered pairs.md",
-    "Chemistry and material structure.md",
-    "Oxidation-reduction.md",
-    "Solutions.md",
-    "Organic chemistry.md",
-    "Stoichiometry.md",
-    "Chemistry symbols.md",
-    "Electromagnetism.md",
-    "Thermodynamics.md",
-    "Optics.md",
-    "Mechanics.md",
-    "Statistics.md",
-    "Trigonometry.md",
-    "Math/Logarithms.md",
-    "Math/Functions.md",
-    "Mathematics, Arithmetic and Algebra.md",
-    "Logic and Reading Comprehension.md",
+    "TOLC-I/Solutions.md",
+    "TOLC-I/Organic chemistry.md",
+    "TOLC-I/Stoichiometry.md",
+    "TOLC-I/Chemistry symbols.md",
+    "Physics/Electromagnetism/Electromagnetism.md",
     "TOLC-I",
     "Chess",
     "Programming/DevOPs"

@@ -1,1 +1,0 @@
-Knowledge of the concept of [[mole]] and its applications is requested, as well as the capability to carry out simple [[stoichiometric calculations]].

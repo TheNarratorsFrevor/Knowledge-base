@@ -1,1 +1,0 @@
-The understanding and knowledge of the following concepts is required: [[temperature]], [[heat]], [[specific heat]], [[expansion]], [[ideal gas law]]. Also required elementary knowledge of the [[laws of thermodynamics]].
