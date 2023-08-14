@@ -5,38 +5,38 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(haskell)",
+      "query": "Programming",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:Geometry",
+      "query": "TOLC-I",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 1318845
       }
     },
     {
-      "query": "path:Math",
+      "query": "Math",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "file:C",
+      "query": "Geometry",
       "color": {
         "a": 1,
-        "rgb": 3816840
+        "rgb": 6084188
       }
     },
     {
-      "query": "",
+      "query": "Chess",
       "color": {
         "a": 1,
         "rgb": 6084269
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 2.24375,
   "lineSizeMultiplier": 3.29010416666667,
   "collapse-forces": false,
-  "centerStrength": 0.34375,
+  "centerStrength": 0,
   "repelStrength": 10.7291666666667,
-  "linkStrength": 0.166666666666667,
+  "linkStrength": 0.885416666666667,
   "linkDistance": 62,
-  "scale": 0.08458838765445145,
+  "scale": 0.043535735759484766,
   "close": true
 }

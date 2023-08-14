@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "800306e16ba06fb6",
+        "id": "62cc78d0678a1f22",
         "type": "tabs",
         "children": [
           {
-            "id": "0f8dde7840814962",
+            "id": "a2802480644fce90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytic geometry and numeric functions.md",
-                "mode": "source",
+                "file": "Geometry/Cartesian coordinates.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytic geometry and numeric functions.md",
+                "file": "Geometry/Cartesian coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f8dde7840814962",
+  "active": "a2802480644fce90",
   "lastOpenFiles": [
+    "Analytic geometry and numeric functions.md",
+    "Programming/DevOPs/`nmon`.md",
+    "Untitled.canvas",
+    "Programming/Programming.md",
+    "TOLC-I/Syllabus checklist.md",
+    "Geometry/Cartesian equations.md",
+    "Math/Distance formula.md",
+    "Geometry/Cartesian coordinates.md",
+    "Geometry/Cartesian plane.md",
+    "Math/Ordered pairs.md",
     "Chemistry and material structure.md",
     "Oxidation-reduction.md",
     "Solutions.md",
@@ -128,22 +138,11 @@
     "Mechanics.md",
     "Statistics.md",
     "Trigonometry.md",
-    "Analytic geometry and numeric functions.md",
     "Math/Logarithms.md",
     "Math/Functions.md",
     "Mathematics, Arithmetic and Algebra.md",
     "Logic and Reading Comprehension.md",
     "TOLC-I",
-    "Home.md",
-    "README.md",
-    "Untitled.canvas",
-    "Programming/DevOPs/AIX operating system.md",
-    "Programming/DevOPs/`nmon`.md",
-    "Programming/DevOPs/Performance monitoring.md",
-    "Programming/DevOPs/ps.md",
-    "Programming/DevOPs/sed.md",
-    "Programming/DevOPs/vmstat.md",
-    "Programming/DevOPs/Devops.md",
     "Chess",
     "Programming/DevOPs"
   ]
