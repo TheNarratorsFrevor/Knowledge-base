@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adf1a6e2dda3330d",
+            "id": "0058e0819a0e820a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -109,7 +109,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf1a6e2dda3330d",
+  "active": "0058e0819a0e820a",
   "lastOpenFiles": [
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics",
