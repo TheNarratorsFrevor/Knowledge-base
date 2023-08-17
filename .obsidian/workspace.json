@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heisenberg's Uncertainty Principle.md",
+                "file": "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heisenberg's Uncertainty Principle.md",
+                "file": "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,10 +127,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33307d7962dfcfec",
+  "active": "c012a2c197f616a6",
   "lastOpenFiles": [
+    "Physics/Quantum stuff",
     "Group theory/Groups.md",
-    "Heisenberg's Uncertainty Principle.md",
+    "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
     "Group theory",
     "Untitled.md",
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
@@ -162,7 +163,6 @@
     "Math/Ordered pairs.md",
     "TOLC-I/Solutions.md",
     "TOLC-I/Organic chemistry.md",
-    "TOLC-I/Stoichiometry.md",
     "TOLC-I",
     "Chess",
     "Programming/DevOPs"
