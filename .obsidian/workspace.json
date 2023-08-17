@@ -11,11 +11,28 @@
             "id": "0058e0819a0e820a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Group theory/Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33307d7962dfcfec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heisenberg's Uncertainty Principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Heisenberg's Uncertainty Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +127,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0058e0819a0e820a",
+  "active": "33307d7962dfcfec",
   "lastOpenFiles": [
+    "Group theory/Groups.md",
+    "Heisenberg's Uncertainty Principle.md",
+    "Group theory",
+    "Untitled.md",
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics",
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
@@ -141,8 +163,6 @@
     "TOLC-I/Solutions.md",
     "TOLC-I/Organic chemistry.md",
     "TOLC-I/Stoichiometry.md",
-    "TOLC-I/Chemistry symbols.md",
-    "Physics/Electromagnetism/Electromagnetism.md",
     "TOLC-I",
     "Chess",
     "Programming/DevOPs"
