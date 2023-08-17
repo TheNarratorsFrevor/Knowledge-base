@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group theory/Groups.md",
+                "file": "Math/Group theory/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d592748d509c6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Group theory/Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
+                "file": "Math/Group theory/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +139,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "7d592748d509c6d8",
   "lastOpenFiles": [
-    "Physics/Quantum stuff",
-    "Group theory/Groups.md",
+    "Schrödinger equation for hydrogen.md",
     "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
-    "Group theory",
+    "S",
+    "Physics/Quantum stuff",
+    "Math/Group theory/Groups.md",
+    "Math/Group theory",
     "Untitled.md",
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics",
