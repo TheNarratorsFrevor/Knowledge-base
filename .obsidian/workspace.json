@@ -11,24 +11,15 @@
             "id": "62da3216bd9d156d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "15ff1f328842c724",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
+                "file": "unfinished/Schrödinger equation for hydrogen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
+                "file": "unfinished/Schrödinger equation for hydrogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +114,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15ff1f328842c724",
+  "active": "62da3216bd9d156d",
   "lastOpenFiles": [
-    "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
     "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
+    "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
