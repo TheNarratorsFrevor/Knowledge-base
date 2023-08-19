@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97f0be7750d80a1d",
+        "id": "c2bbb108e554f1fc",
         "type": "tabs",
         "children": [
           {
-            "id": "62da3216bd9d156d",
+            "id": "55f8311012777f68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +109,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62da3216bd9d156d",
+  "active": "55f8311012777f68",
   "lastOpenFiles": [
+    "TOLC-I/Syllabus checklist.md",
+    "unfinished/Schrödinger equation for hydrogen.md",
     "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
     "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
     "Psychology/Lecture notes/Jordan Peterson",
@@ -125,7 +122,6 @@
     "Psychology/Lecture notes",
     "unfinished/Untitled.md",
     "unfinished",
-    "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Group theory/Groups.md",
     "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
     "S",
@@ -136,7 +132,6 @@
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
     "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
     "Physics/Thermodynamics/Entropy.md",
-    "TOLC-I/Syllabus checklist.md",
     "**Analytic geometry and numeric functions.md",
     "TOLC-I/Analytic geometry and numeric functions.md",
     "TOLC-I/Chemistry and material structure.md",

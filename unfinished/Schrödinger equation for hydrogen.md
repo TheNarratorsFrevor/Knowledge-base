@@ -8,7 +8,7 @@ $$\Psi(r,\theta,\phi) = \frac{U(r)}{r}Y_{\ell m}(\theta,\phi)$$
 
 $$-\frac{{\hbar^2}}{{2\mu}} \nabla^2 \Psi(r, \theta, \phi) + V(r) \Psi(r, \theta, \phi) = E \Psi(r, \theta, \phi)
 $$
-The separable wavefunction is assumed to be of the form:
+The separable wave-function is assumed to be of the form:
 
 $$\Psi(r, \theta, \phi) = R(r) \Theta(\theta) \Phi(\phi)$$
 
