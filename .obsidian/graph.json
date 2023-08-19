@@ -6,53 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Programming",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "TOLC-I",
-      "color": {
-        "a": 1,
-        "rgb": 1318845
-      }
-    },
-    {
-      "query": "Math",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "Geometry",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "Chess",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1.14635416666667,
-  "lineSizeMultiplier": 2.55,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.60572916666667,
+  "lineSizeMultiplier": 1.75885416666667,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10.4166666666667,
-  "linkStrength": 0.885416666666667,
-  "linkDistance": 62,
-  "scale": 0.4586328238554856,
-  "close": true
+  "centerStrength": 0.583333333333333,
+  "repelStrength": 9.79166666666667,
+  "linkStrength": 1,
+  "linkDistance": 79,
+  "scale": 0.45050811767578125,
+  "close": false
 }

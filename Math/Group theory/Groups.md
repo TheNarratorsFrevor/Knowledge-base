@@ -1,4 +1,4 @@
-
+[[Maths]]
 In mathematics, a group is a fundamental algebraic structure consisting of a set of elements together with an operation that combines any two elements to produce a third element. The operation must satisfy certain properties to qualify as a group.
 
 Formally, a group is defined as a set G along with a binary operation (often denoted as *) that satisfies the following three axioms:

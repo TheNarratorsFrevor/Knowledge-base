@@ -7,7 +7,7 @@ The fundamental idea behind the derivation is that in equilibrium, all accessibl
 
 Now, let's derive Boltzmann's entropy formula step by step:
 
-1. Consider a system with a certain number of [[particles]] and [[energy levels]]. The total number of microstates accessible to the system is denoted by $W$.
+1. Consider a system with a certain number of [[particles]] and [[Energy levels]]. The total number of microstates accessible to the system is denoted by $W$.
     
 2. The probability of finding the system in a specific microstate $i$ is given by $P(i)$. Since all microstates are equally probable in equilibrium, we have $P(i) = \frac{1}{W}$ for each microstate.
     

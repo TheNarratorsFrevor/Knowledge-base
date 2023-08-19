@@ -1,4 +1,4 @@
-
+[[Lecture notes]]
 
 Essentially, you need a procedure to force yourself to interact with the semantic content of what you're reading.
 

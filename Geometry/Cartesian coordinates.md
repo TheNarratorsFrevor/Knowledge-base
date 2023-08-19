@@ -1,4 +1,4 @@
-
+[[Maths]], [[Geometry]]
 The Cartesian coordinate system, named after the French mathematician and philosopher René Descartes, is a fundamental mathematical framework used to represent points, lines, curves, and shapes in a two-dimensional space. It provides a systematic way to describe the position of any point in relation to a reference point called the origin.
 
 The Cartesian coordinate system consists of two perpendicular lines, known as axes, which intersect at the origin. The horizontal line is called the X-axis, and the vertical line is called the Y-axis. These two axes divide the plane into four regions called quadrants.

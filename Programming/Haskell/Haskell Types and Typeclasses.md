@@ -1,3 +1,4 @@
+[[Haskell]]
 <h1>Types and Typeclasses</h1>
 <a name="believe-the-type"></a><h2>Believe the type</h2>
 <img src="http://s3.amazonaws.com/lyah/cow.png" alt="moo" class="left" width="180" height="127">

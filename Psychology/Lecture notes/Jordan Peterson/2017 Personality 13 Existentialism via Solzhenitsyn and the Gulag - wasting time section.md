@@ -1,4 +1,4 @@
-
+[[Lecture notes]]
 in this small 10 minute section of that hour and half section, initially he spoke about what would happen if you expose people to the things that they are avoiding.
 
 #### If you expose people to the things that they are avoiding

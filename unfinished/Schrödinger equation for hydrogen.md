@@ -1,4 +1,4 @@
-
+[[Schrödinger equation]], [[hydrogen-like atom]]
 We are gonna start with the radial equation:
 $$(-{\frac{\hbar}{2m}}  \frac{d^2}{dr^{2}} - \frac{Ze^2}{r})u = Eu$$
 this is the radial equation, it's like the  Schrodinger's equation for a variable u almnd the wave function was $\frac{u}{r\Psi lm}$ .

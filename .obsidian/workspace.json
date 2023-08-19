@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c2bbb108e554f1fc",
+        "id": "b3e865cc741b2fa1",
         "type": "tabs",
         "children": [
           {
-            "id": "55f8311012777f68",
+            "id": "0fce194e50825268",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,22 @@
   "right": {
     "id": "e08017fc51d2cb5a",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "d68b0779102c5008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a97d50332516e151",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -109,12 +125,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55f8311012777f68",
+  "active": "1e3f3b6800847cbd",
   "lastOpenFiles": [
-    "TOLC-I/Syllabus checklist.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
+    "Physics/Quantum Mechanics/Quantum Mechanics.md",
+    "Physics/Quantum Mechanics/Schrödinger equation.md",
+    "Devops.md",
+    "Programming/DevOPs/Performance monitoring.md",
+    "Geometry/Cartesian coordinates.md",
+    "Physics/Quantum Mechanics/Energy levels.md",
+    "Math/Group theory/Groups.md",
+    "Programming/C/Circle angle theorems.md",
     "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
+    "Psychology/Lecture notes/Lecture notes.md",
     "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
+    "Programming/Haskell/Haskell Types and Typeclasses.md",
+    "Geometry/Circle theorems - proof.md",
+    "unfinished/Schrödinger equation for hydrogen.md",
+    "Physics/Quantum Mechanics/Quantized.md",
+    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
+    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
+    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
+    "TOLC-I/Syllabus checklist.md",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
@@ -122,33 +153,18 @@
     "Psychology/Lecture notes",
     "unfinished/Untitled.md",
     "unfinished",
-    "Math/Group theory/Groups.md",
-    "Physics/Quantum stuff/Heisenberg's Uncertainty Principle.md",
+    "Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
     "S",
-    "Physics/Quantum stuff",
+    "Physics/Quantum Mechanics",
     "Math/Group theory",
-    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics",
-    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
-    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
     "Physics/Thermodynamics/Entropy.md",
     "**Analytic geometry and numeric functions.md",
     "TOLC-I/Analytic geometry and numeric functions.md",
     "TOLC-I/Chemistry and material structure.md",
-    "TOLC-I/Oxidation-reduction.md",
     "Physics/Electromagnetism",
-    "Physics/Thermodynamics/Macrostate.md",
-    "Physics/Thermodynamics/Microstates.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "TOLC-I/Thermodynamics.md",
-    "Physics/Thermodynamics/Thermodynamics - Crash course notes.md",
-    "Geometry/Cartesian coordinates.md",
-    "Programming/DevOPs/`nmon`.md",
-    "Untitled.canvas",
-    "Programming/Programming.md",
-    "Geometry/Cartesian equations.md",
-    "Math/Distance formula.md",
-    "Geometry/Cartesian plane.md"
+    "Untitled.canvas"
   ]
 }

@@ -1,3 +1,4 @@
+[[Circle theorems]]
 **Theorem 1: Equal chords of circle subtend equal angles at the centre.**
 
 **Proof:**
