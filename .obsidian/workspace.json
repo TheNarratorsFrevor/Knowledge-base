@@ -13,24 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOLC-I/Syllabus checklist.md",
+                "file": "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53c0ebc9ea822ace",
+            "id": "2a0cf9fb3186a0fe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Reference frames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "218e9fab58f49074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOLC-I/Syllabus checklist.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,8 +139,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53c0ebc9ea822ace",
+  "active": "218e9fab58f49074",
   "lastOpenFiles": [
+    "Calculating average velocity or speed.md",
+    "Reference frames.md",
+    "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
+    "TOLC-I/Syllabus checklist.md",
+    "Physics/AP®︎ College Physics 1",
     "Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
     "unfinished/Schrödinger equation for hydrogen.md",
     "Physics/Different mechanics and their difference.md",
@@ -149,20 +168,15 @@
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
-    "TOLC-I/Syllabus checklist.md",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
-    "Psychology/Lecture notes/Untitled.md",
     "Psychology/Lecture notes",
     "unfinished",
     "S",
     "Physics/Quantum Mechanics",
     "Math/Group theory",
     "Physics/Black hole thermodynamics",
-    "Physics/Thermodynamics/Entropy.md",
-    "**Analytic geometry and numeric functions.md",
-    "Physics/Electromagnetism",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
