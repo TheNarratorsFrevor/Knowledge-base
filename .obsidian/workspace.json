@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31ddf11ddef0adba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "218e9fab58f49074",
+  "active": "31ddf11ddef0adba",
   "lastOpenFiles": [
     "Calculating average velocity or speed.md",
     "Reference frames.md",
