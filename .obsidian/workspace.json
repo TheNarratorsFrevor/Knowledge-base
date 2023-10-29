@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a32c7a6c1fcd9b",
+        "id": "ad47a4d6d7f18607",
         "type": "tabs",
         "children": [
           {
-            "id": "a59645e695f9cf1b",
+            "id": "4340ce9948ca2c78",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Principles of geometric optics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Principles of geometric optics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +114,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a59645e695f9cf1b",
+  "active": "4340ce9948ca2c78",
   "lastOpenFiles": [
+    "Principles of geometric optics.md",
+    "Surface Tension.md",
+    "Fluid Mechanics.md",
+    "Viscosity.md",
+    "Newton’s law of universal gravitation.md",
+    "Central Tendency.md",
+    "Mean.md",
+    "Parabolas.md",
     "Geometry/Cartesian coordinates.md",
     "TOLC-I/Syllabus checklist.md",
     "atomic.md",
@@ -130,14 +143,6 @@
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
     "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
     "Physics/AP®︎ College Physics 1",
-    "Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
-    "Physics/Different mechanics and their difference.md",
-    "unfinished/Hamiltonian mechanics.md",
-    "Physics/Quantum Mechanics/Energy levels.md",
-    "Physics/Quantum Mechanics/Quantum Mechanics.md",
-    "Physics/Quantum Mechanics/Schrödinger equation.md",
-    "Programming/DevOPs/Performance monitoring.md",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
