@@ -12,7 +12,7 @@
 
 **[[Optics]] –** Principles of geometric optics; reflection, refraction; refractive index; prisms; mirrors and concave and convex lenses; elementary knowledge of lens systems and instruments.
 
-[[**Thermodynamics]] –** The understanding and knowledge of the following concepts is required: temperature, heat, specific heat, expansion, ideal gas law. Also required elementary knowledge of the laws of thermodynamics.
+[[**Thermodynamics]] –** The understanding and knowledge of the following concepts is required: [[Temperature, Heat, Specific Heat, Expansion]], ideal gas law. Also required elementary knowledge of the laws of thermodynamics.
 
 **[[Electromagnetism]] –** Elementary knowledge of electrostatics (Coulomb’s law, electrostatic field and condensers) and magnetostatics (electric intensity, Ohm’s law, magnetostatic field) is required. Also required, elementary knowledge of electromagnetic radiations and their propagation.
 

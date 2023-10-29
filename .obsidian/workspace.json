@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4221f2489b9407",
+        "id": "e64a07771eb10169",
         "type": "tabs",
         "children": [
           {
-            "id": "f835185fbebde753",
+            "id": "12428d37d16dba56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
+                "file": "Physics/Thermodynamics/Ideal Gas Law.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2a0cf9fb3186a0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference frames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "218e9fab58f49074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOLC-I/Syllabus checklist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31ddf11ddef0adba",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOLC-I/Syllabus checklist.md",
+                "file": "Physics/Thermodynamics/Ideal Gas Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +114,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31ddf11ddef0adba",
+  "active": "12428d37d16dba56",
   "lastOpenFiles": [
+    "Physics/Thermodynamics/Ideal Gas Law.md",
+    "Temperature, Heat, Specific Heat, Expansion.md",
+    "TOLC-I/Syllabus checklist.md",
+    "Physics/Thermodynamics/Entropy.md",
+    "Physics/Thermodynamics/Macrostate.md",
+    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
+    "Physics/Thermodynamics/Thermodynamics - Crash course notes.md",
     "Calculating average velocity or speed.md",
     "Reference frames.md",
     "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
-    "TOLC-I/Syllabus checklist.md",
     "Physics/AP®︎ College Physics 1",
     "Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
     "unfinished/Schrödinger equation for hydrogen.md",
@@ -172,12 +143,6 @@
     "Psychology/Lecture notes/Jordan Peterson/2017 Personality 13 Existentialism via Solzhenitsyn and the Gulag - wasting time section.md",
     "Psychology/Lecture notes/Lecture notes.md",
     "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
-    "Programming/Haskell/Haskell Types and Typeclasses.md",
-    "Geometry/Circle theorems - proof.md",
-    "Physics/Quantum Mechanics/Quantized.md",
-    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
-    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
-    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",

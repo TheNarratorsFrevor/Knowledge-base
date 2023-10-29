@@ -56,4 +56,11 @@ $$\Delta U = - W$$
 
 ## Second law of thermodynamics
 
-Because of [[Entropy]], Heat will spontaneously flow from something hotter to something colder, but not from something colder to something hotter.
+*Because of [[Entropy]], Heat will spontaneously flow from something hotter to something colder, but not from something colder to something hotter.*
+
+Entropy is a measure of the disorder or randomness in a system. The second law of thermodynamics tells us that in any natural process, the total entropy of an isolated system, which includes both the system and its surroundings, will either stay constant or increase but will never decrease. In simpler terms, it means that over time, systems tend to move towards a state of greater disorder.
+This law has several implications. One of the key implications is that heat energy tends to disperse or spread out spontaneously. For example, if you have a hot cup of coffee and leave it in a room, the heat from the coffee will gradually transfer to the surrounding air until both reach the same temperature. This is because the energy spreads out to achieve a more uniform distribution, increasing the overall entropy of the system.
+
+Another implication of the second law is the concept of irreversibility. While physical laws usually allow processes to occur in both forward and backward directions, the second law suggests that certain processes, especially those involving energy transfer, are more likely to occur in one direction than in the reverse. For example, a broken egg does not spontaneously reassemble itself because the process of breaking the egg increases the system's entropy, and reversing it would reduce the entropy, which goes against the second law.
+
+It's important to note that the second law of thermodynamics applies to closed or isolated systems, where no energy or matter is exchanged with the surroundings. In open systems, such asw in  living organisms, energy and matter can floand out, allowing for localized decreases in entropy at the expense of increasing entropy elsewhere.
