@@ -1,4 +1,4 @@
-
+Related: [[Physics]]
 # Principles of Geometric Optics
 
 Geometric optics is a branch of optics that focuses on the behavior of light as it travels in straight lines and interacts with surfaces and interfaces. It provides a simplified model for the study of light without considering its wave nature. In this topic, we will explore the fundamental principles of geometric optics.

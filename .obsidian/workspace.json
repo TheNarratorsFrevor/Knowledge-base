@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad47a4d6d7f18607",
+        "id": "26c33fd313df1708",
         "type": "tabs",
         "children": [
           {
-            "id": "4340ce9948ca2c78",
+            "id": "9e14b367a6388e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of geometric optics.md",
+                "file": "difference between ionic and molecular compounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of geometric optics.md",
+                "file": "difference between ionic and molecular compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +114,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4340ce9948ca2c78",
+  "active": "9e14b367a6388e37",
   "lastOpenFiles": [
-    "Principles of geometric optics.md",
+    "difference between ionic and molecular compounds.md",
+    "Sine.md",
     "Surface Tension.md",
-    "Fluid Mechanics.md",
+    "Untitled.md",
     "Viscosity.md",
-    "Newton’s law of universal gravitation.md",
+    "Math/Maths.md",
     "Central Tendency.md",
+    "Physics/Physics.md",
+    "Principles of geometric optics.md",
+    "Physics/Thermodynamics/Thermodynamics.md",
+    "Fluid Mechanics.md",
+    "Newton’s law of universal gravitation.md",
     "Mean.md",
     "Parabolas.md",
     "Geometry/Cartesian coordinates.md",
@@ -131,17 +137,11 @@
     "Devops.md",
     "Reference frames.md",
     "Calculating average velocity or speed.md",
-    "Untitled.md",
     "Thermodynamics.md",
-    "Physics/Thermodynamics/Thermodynamics.md",
     "**Thermodynamics.md",
     "Physics/Thermodynamics/laws of thermodynamics.md",
     "Physics/Thermodynamics/Ideal Gas Law.md",
     "Physics/Thermodynamics/Temperature, Heat, Specific Heat, Expansion.md",
-    "Physics/Thermodynamics/Entropy.md",
-    "Physics/Thermodynamics/Macrostate.md",
-    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
-    "Physics/AP®︎ College Physics 1/Vectors & Scalars.md",
     "Physics/AP®︎ College Physics 1",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",

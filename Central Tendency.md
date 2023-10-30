@@ -1,4 +1,4 @@
-
+Related: [[Statistics]], [[Maths]]
 # Central Tendency
 
 Central tendency is a statistical concept that describes the central or typical value in a set of data. It provides a measure of where the data tends to cluster or concentrate. In this section, we'll explore three commonly used measures of central tendency: the mean, median, and mode.

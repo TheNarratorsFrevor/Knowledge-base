@@ -1,4 +1,4 @@
-
+Related: [[Physi]]
 Notes:
 - When a thermodynamic system does work, it loses heat,
 - When work is done on a thermodynamic system, it gains heat,

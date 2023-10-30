@@ -4,7 +4,7 @@
 
 [[Analytic geometry and numeric functions]] [[Cartesian coordinates]]. The concept of function. [[Equations of lines]] and of simple loci ([[circles]], [[ellipses]], [[Parabolas]], etc.). Graphs and properties of elementary functions (powers, logarithms, exponentials, etc.). Calculations with logarithms. Equations and inequalities with logarithms or exponentials.
 
-**[[Trigonometry]] –** Graphs and properties of [[sine]], [[cosine]] and [[tangent]]. The[[ main trigonometric formulas]] (addition, subtraction, duplication, bisection). [[Trigonometric equations]] and inequalities. [[Relations between the elements of a triangle]].
+**[[Trigonometry]] –** Graphs and properties of [[Sine]], [[cosine]] and [[tangent]]. The[[ main trigonometric formulas]] (addition, subtraction, duplication, bisection). [[Trigonometric equations]] and inequalities. [[Relations between the elements of a triangle]].
 
 **[[Statistics]] –** Basic elementary notions of statistics is required ([[permutation]], [[combination]], [[Mean]], [[variance]] and [[frequency]]). Basic notions to read [[frequency diagrams and histograms]].
 
