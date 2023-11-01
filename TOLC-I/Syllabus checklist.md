@@ -16,7 +16,7 @@
 
 **[[Electromagnetism]] –** Elementary knowledge of electrostatics ([[Coulomb’s law]], [[electrostatic field]] and [[condensers]]) and [[magnetostatics]] ([[electric intensity]], [[Ohm’s law]], [[magnetostatic field]]) is required. Also required, elementary knowledge of [[electromagnetic radiations]] and their propagation.
 
-**[[Chemistry and material structure]] –** Qualitative knowledge of [[atomic]] and [[molecular structure]] is required. In particular the elementary understanding of atom constituents and the [[periodic table]]. Also required is the knowledge of the [[difference between ionic and molecular compounds]] and their physical characteristics, in particular of the more common compounds existing in nature, such as water and the [[atmospheric constituents]].
+**[[Chemistry and material structure]] –** Qualitative knowledge of [[atomic]] and [[molecular structure]] is required. In particular the elementary understanding of atom constituents and the [[periodic table]]. Also required is the knowledge of the [[Difference between ionic and molecular compounds]] and their physical characteristics, in particular of the more common compounds existing in nature, such as water and the [[atmospheric constituents]].
 
 **[[Chemistry symbols]] –** Knowledge of [[chemistry symbols]] is required as well as the meaning of chemical formula and equations.
 

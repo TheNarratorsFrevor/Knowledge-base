@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26c33fd313df1708",
+        "id": "70ba6b868fbab407",
         "type": "tabs",
         "children": [
           {
-            "id": "9e14b367a6388e37",
+            "id": "97fc0ff108a0a60d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "difference between ionic and molecular compounds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "difference between ionic and molecular compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,34 +109,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e14b367a6388e37",
+  "active": "97fc0ff108a0a60d",
   "lastOpenFiles": [
-    "difference between ionic and molecular compounds.md",
-    "Sine.md",
-    "Surface Tension.md",
+    "Newton’s third law.md",
+    "Quadratic Trigonometric Equations.md",
+    "Trigonometric equations.md",
+    "Organic chemistry.md",
+    "Chemistry/Stoichiometry.md",
+    "Untitled.canvas",
+    "Cosmology.md",
+    "Physics/Viscosity.md",
+    "Physics/Bernoulli's Principle.md",
+    "Chemistry",
+    "Physics/Fluid Mechanics.md",
+    "Chemistry/Intermolecular forces.md",
+    "Chemistry/Solubilities.md",
+    "Chemistry/Difference between ionic and molecular compounds.md",
+    "Math/Equations of lines.md",
+    "Math/Logarithms.md",
+    "Physics/Principles of geometric optics.md",
+    "Math/Sets.md",
+    "Math/Probability",
+    "Physics/Calculating average velocity or speed.md",
+    "Physics/Surface Tension.md",
+    "Math/Sine.md",
     "Untitled.md",
-    "Viscosity.md",
     "Math/Maths.md",
-    "Central Tendency.md",
+    "Math/Probability/Central Tendency.md",
     "Physics/Physics.md",
-    "Principles of geometric optics.md",
     "Physics/Thermodynamics/Thermodynamics.md",
-    "Fluid Mechanics.md",
-    "Newton’s law of universal gravitation.md",
-    "Mean.md",
-    "Parabolas.md",
-    "Geometry/Cartesian coordinates.md",
-    "TOLC-I/Syllabus checklist.md",
-    "atomic.md",
-    "Analytic geometry and numeric functions.md",
-    "Devops.md",
-    "Reference frames.md",
-    "Calculating average velocity or speed.md",
-    "Thermodynamics.md",
-    "**Thermodynamics.md",
-    "Physics/Thermodynamics/laws of thermodynamics.md",
-    "Physics/Thermodynamics/Ideal Gas Law.md",
-    "Physics/Thermodynamics/Temperature, Heat, Specific Heat, Expansion.md",
+    "Physics/Newton’s law of universal gravitation.md",
+    "Math/Probability/Mean.md",
     "Physics/AP®︎ College Physics 1",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
@@ -150,10 +148,7 @@
     "unfinished",
     "S",
     "Physics/Quantum Mechanics",
-    "Math/Group theory",
-    "Physics/Black hole thermodynamics",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

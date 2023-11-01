@@ -31,15 +31,15 @@ Fluid statics deals with fluids at rest or in equilibrium. It explores the behav
 
 Fluid dynamics involves the study of fluids in motion. It explores the behavior of fluids under the influence of forces and how they interact with their surroundings. The fundamental principles of fluid dynamics include:
 
-1. **Continuity Equation**: The continuity equation states that the mass flow rate of a fluid remains constant along a streamline. It relates the fluid velocity, cross-sectional area, and density.
+1. **[[Continuity Equation]]**: The continuity equation states that the mass flow rate of a fluid remains constant along a streamline. It relates the fluid velocity, cross-sectional area, and density.
 
-2. **Bernoulli's Principle**: Bernoulli's principle states that in an inviscid, incompressible flow, as the fluid velocity increases, its pressure decreases, and vice versa. This principle is often applied to analyze the flow of fluids through pipes, nozzles, and wings.
+2. **[[Bernoulli's Principle]]**: Bernoulli's principle states that in an inviscid, incompressible flow, as the fluid velocity increases, its pressure decreases, and vice versa. This principle is often applied to analyze the flow of fluids through pipes, nozzles, and wings.
 
-3. **Euler's Equation and Navier-Stokes Equations**: These equations describe the conservation of mass, momentum, and energy in fluid flow. They are derived from Newton's laws of motion and are used to model and solve fluid flow problems, including turbulent flow.
+3. **[[Euler's Equation and Navier-Stokes Equations]]**: These equations describe the conservation of mass, momentum, and energy in fluid flow. They are derived from Newton's laws of motion and are used to model and solve fluid flow problems, including turbulent flow.
 
-4. **Viscous Flow**: Viscous flow deals with fluids that have internal friction or viscosity. It involves the study of fluid flow behavior near solid surfaces, boundary layers, and the effects of viscosity on flow patterns.
+4. **[[Viscous Flow]]**: Viscous flow deals with fluids that have internal friction or viscosity. It involves the study of fluid flow behavior near solid surfaces, boundary layers, and the effects of viscosity on flow patterns.
 
-5. **Turbulent Flow**: Turbulent flow is characterized by irregular, chaotic motion of fluid particles. It occurs at high velocities or in the presence of obstacles and is challenging to analyze mathematically. It plays a significant role in engineering applications such as pipeline design and aerodynamics.
+5. **[[Turbulent Flow]]**: Turbulent flow is characterized by irregular, chaotic motion of fluid particles. It occurs at high velocities or in the presence of obstacles and is challenging to analyze mathematically. It plays a significant role in engineering applications such as pipeline design and aerodynamics.
 
 ## Applications of Fluid Mechanics
 
