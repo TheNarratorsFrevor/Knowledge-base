@@ -1,6 +1,6 @@
 **Logic and Reading Comprehension** – The logic and reading comprehension questions seek to test in particular the candidate’s aptitude rather than the skills acquired in secondary school. Therefore, they do not require a specific preparation.
 
-**[[Mathematics, Arithmetic and Algebra]] –** Properties and operations on numbers ([[integers]], rationals, [[real numbers]]). [[Absolute value]]. [[Powers and square roots]]. [[Logarithms]] and [[exponentials]]. Symbolic mathematics. [[Polynomials]] (operations, factorisations). First and second degree algebraic equations and inequalities or reducible. Systems of first degree equations. Fractional rational equations and inequalities and with radicals. Geometry, segments and angles; measurements and properties. Lines and planes. Significant loci. Properties of the main plane geometric figures (triangles, circles, regular polygons, etc.) and their perimeters and areas. Properties of the main solid geometric figures (spheres, cones, [[cylinders]], [[prisms]], [[parallelepipeds]], [[pyramids]], etc.) and their volumes and areas.
+**[[Mathematics, Arithmetic and Algebra]] –** Properties and operations on numbers ([[integers]], rationals, [[real numbers]]). [[Absolute value]]. [[Powers and square roots]]. [[Logarithms]] and [[exponentials]]. Symbolic mathematics. [[Polynomials]] (operations, factorisations). First and second degree algebraic equations and inequalities or reducible. Systems of first degree equations. Fractional rational equations and inequalities and with radicals. Geometry, segments and angles; measurements and properties. Lines and planes. Significant loci. Properties of the main plane geometric figures (triangles, circles, regular polygons, etc.) and their perimeters and areas. Properties of the main solid geometric figures (spheres, cones, [[cylinders]], [[prisms]], [[Parallelepipeds]], [[pyramids]], etc.) and their volumes and areas.
 
 [[Analytic geometry and numeric functions]] [[Cartesian coordinates]]. The concept of function. [[Equations of lines]] and of simple loci ([[circles]], [[ellipses]], [[Parabolas]], etc.). Graphs and properties of elementary functions (powers, logarithms, exponentials, etc.). Calculations with logarithms. Equations and inequalities with logarithms or exponentials.
 
@@ -8,7 +8,7 @@
 
 **[[Statistics]] –** Basic elementary notions of statistics is required ([[permutation]], [[combination]], [[Mean]], [[variance]] and [[frequency]]). Basic notions to read [[frequency diagrams and histograms]].
 
-**[[Mechanics]] –** The understanding and knowledge of the following topics and concepts is required: [[scalar and vector quantity]], [[measurement of physical volumes]] and [[measurement unit system]]; definitions of the fundamental physical volumes ([[displacement]], [[velocity]], [[acceleration]], [[mass]], [[momentum]], [[force]], [[weight]], [[work]] and power); [[Newton’s first law]], [[Newton’s law of universal gravitation]] and [[Newton’s third law]], [[Fluid Mechanics]].
+**[[Mechanics]] –** The understanding and knowledge of the following topics and concepts is required: [[scalar and vector quantity]], [[measurement of physical volumes]] and [[measurement unit system]]; definitions of the fundamental physical volumes ([[displacement]], [[velocity]], [[acceleration]], [[mass]], [[momentum]], [[Force]], [[weight]], [[work]] and power); [[Newton’s first law]], [[Newton’s law of universal gravitation]] and [[Newton’s third law]], [[Fluid Mechanics]].
 
 **[[Optics]] –** [[Principles of geometric optics]]; [[reflection]], [[refraction]]; [[refractive index]]; [[prisms]]; [[mirrors]] and [[concave and convex lenses]]; elementary knowledge of [[lens systems]] and instruments.
 
@@ -20,10 +20,10 @@
 
 **[[Chemistry symbols]] –** Knowledge of [[chemistry symbols]] is required as well as the meaning of chemical formula and equations.
 
-**[[Stoichiometry]] –** Knowledge of the concept of [[mole]] and its applications is requested, as well as the capability to carry out simple stoichiometric calculations.
+**[[Stoichiometry]] –** Knowledge of the concept of [[Mole]] and its applications is requested, as well as the capability to carry out simple stoichiometric calculations.
 
 **[[Organic chemistry]] –** Knowledge of the structure of the more [[simple carbon compounds]] is required.
 
-**[[Solutions]] –** Knowledge of the definition of [[acid base systems]] and [[pH]] is requested.
+**[[Solutions]] –** Knowledge of the definition of [[acid base systems]] and [[pH & pOH]] is requested.
 
 **[[Oxidation-reduction]] –** Knowledge of the concepts of [[oxidation]] and [[reduction]] as well as elementary knowledge of the [[combustion reaction]] is requested.

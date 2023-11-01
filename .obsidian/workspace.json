@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70ba6b868fbab407",
+        "id": "9293409195db7f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "97fc0ff108a0a60d",
+            "id": "933f7b508bf8a52d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -109,12 +109,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97fc0ff108a0a60d",
+  "active": "933f7b508bf8a52d",
   "lastOpenFiles": [
-    "Newton’s third law.md",
-    "Quadratic Trigonometric Equations.md",
-    "Trigonometric equations.md",
-    "Organic chemistry.md",
+    "Chemistry/Mole.md",
+    "Math/Parallelepipeds.md",
+    "Chemistry/pH & pOH.md",
+    "Physics/Coulomb’s law.md",
+    "Math/Quadratic Trigonometric Equations.md",
+    "Math/Trigonometric equations.md",
+    "Chemistry/Organic chemistry.md",
+    "Physics/Newton’s third law.md",
+    "Physics/Force.md",
+    "Math/exponential functions.md",
     "Chemistry/Stoichiometry.md",
     "Untitled.canvas",
     "Cosmology.md",
@@ -134,12 +140,6 @@
     "Physics/Surface Tension.md",
     "Math/Sine.md",
     "Untitled.md",
-    "Math/Maths.md",
-    "Math/Probability/Central Tendency.md",
-    "Physics/Physics.md",
-    "Physics/Thermodynamics/Thermodynamics.md",
-    "Physics/Newton’s law of universal gravitation.md",
-    "Math/Probability/Mean.md",
     "Physics/AP®︎ College Physics 1",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
