@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9293409195db7f6a",
+        "id": "9f6ca25c523530f9",
         "type": "tabs",
         "children": [
           {
-            "id": "933f7b508bf8a52d",
+            "id": "19c6045b8f0fab43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Parallelepipeds.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Parallelepipeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +114,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "933f7b508bf8a52d",
+  "active": "19c6045b8f0fab43",
   "lastOpenFiles": [
+    "Math/Analytic geometry and numeric functions.md",
     "Chemistry/Mole.md",
     "Math/Parallelepipeds.md",
     "Chemistry/pH & pOH.md",
@@ -139,7 +145,6 @@
     "Physics/Calculating average velocity or speed.md",
     "Physics/Surface Tension.md",
     "Math/Sine.md",
-    "Untitled.md",
     "Physics/AP®︎ College Physics 1",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
