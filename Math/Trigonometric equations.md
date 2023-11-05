@@ -12,7 +12,7 @@ Trigonometric equations involve trigonometric functions, such as sine, cosine, a
 
 ### 2. Common Strategies
 - Use periodicity properties of trigonometric functions to find solutions over a specific interval.
-- Apply the [[unit circle]] or right triangles to visualize and solve equations involving trigonometric functions.
+- Apply the [[Unit circle]] or right triangles to visualize and solve equations involving trigonometric functions.
 - Employ double-angle, half-angle, or sum/difference identities to simplify the equation before solving.
 - Consider using trigonometric identities like the Pythagorean identity or reciprocal identities to rewrite the equation in a more solvable form.
 

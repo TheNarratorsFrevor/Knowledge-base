@@ -1,1 +1,36 @@
-Elementary knowledge of electrostatics ([[Coulomb’s law]], [[electrostatic field]] and [[condensers]]) and [[magnetostatics]] ([[electric intensity]], [[Ohm’s law]], [[magnetostatic field]]) is required. Also required, elementary knowledge of [[electromagnetic radiations]] and their propagation.
+Theories:
+
+1. [[Coulomb's Law]]
+2. [[Gauss's Law]]
+3. [[Biot-Savart Law]]
+4. [[Ampere's Law]]
+5. [[Faraday's Law of Electromagnetic Induction]]
+6. [[Maxwell's Equations]]
+7. [[Lorentz Force Law]]
+8. [[Ohm's Law]]
+9. [[Kirchhoff's Circuit Laws]]
+10. [[Poynting's Theorem]]
+11. [[Electromagnetic Wave Equation]]
+12. [[Electromagnetic Spectrum]]
+13. [[Hertzian Waves]]
+14. [[Boundary Conditions in Electromagnetism]]
+15. [[Electromagnetic Radiation]]
+
+Subjects:
+
+1. [[Electrostatics]]
+2. [[Magnetostatics]]
+3. [[Electromagnetic Fields]]
+4. [[Electromagnetic Waves]]
+5. [[Electromagnetic Induction]]
+6. [[Electromagnetic Radiation]]
+7. [[Maxwell's Equations]]
+8. [[Circuit Theory]]
+9. [[Electromagnetic Interference]]
+10. [[Antennas and Wave Propagation]]
+11. [[Optics and Electromagnetism]]
+12. [[Electromagnetic Energy Conversion]]
+13. [[Electromagnetic Compatibility]]
+14. [[Electromagnetic Sensors]]
+15. [[Electromagnetic Materials]]
+16. [[Electromagnetic Spectrum]]

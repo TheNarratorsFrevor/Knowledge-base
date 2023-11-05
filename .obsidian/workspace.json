@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6ca25c523530f9",
+        "id": "ed3c66ed7a79c05a",
         "type": "tabs",
         "children": [
           {
-            "id": "19c6045b8f0fab43",
+            "id": "69db9aba5729c51a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Parallelepipeds.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Parallelepipeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +109,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19c6045b8f0fab43",
+  "active": "69db9aba5729c51a",
   "lastOpenFiles": [
+    "unfinished/Hamiltonian mechanics.md",
+    "Math/Maths.md",
+    "Lagrangian Mechanics.md",
+    "Physics/Physics.md",
+    "Optics.md",
+    "Untitled.canvas",
+    "Newtonian Mechanics.md",
+    "Physics/Electromagnetism/Electromagnetism.md",
+    "Physics/Classical physics/Classical Physics.md",
+    "Physics/Classical physics",
+    "Math/Probability/Probability.md",
+    "Math/Mathematics.md",
+    "Math/Probability/Statistics.md",
+    "Math/Unit circle.md",
+    "Math/Parallelepipeds.md",
     "Math/Analytic geometry and numeric functions.md",
     "Chemistry/Mole.md",
-    "Math/Parallelepipeds.md",
     "Chemistry/pH & pOH.md",
     "Physics/Coulomb’s law.md",
     "Math/Quadratic Trigonometric Equations.md",
@@ -128,23 +137,10 @@
     "Physics/Force.md",
     "Math/exponential functions.md",
     "Chemistry/Stoichiometry.md",
-    "Untitled.canvas",
     "Cosmology.md",
     "Physics/Viscosity.md",
-    "Physics/Bernoulli's Principle.md",
     "Chemistry",
-    "Physics/Fluid Mechanics.md",
-    "Chemistry/Intermolecular forces.md",
-    "Chemistry/Solubilities.md",
-    "Chemistry/Difference between ionic and molecular compounds.md",
-    "Math/Equations of lines.md",
-    "Math/Logarithms.md",
-    "Physics/Principles of geometric optics.md",
-    "Math/Sets.md",
     "Math/Probability",
-    "Physics/Calculating average velocity or speed.md",
-    "Physics/Surface Tension.md",
-    "Math/Sine.md",
     "Physics/AP®︎ College Physics 1",
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
@@ -152,7 +148,6 @@
     "Psychology/Lecture notes",
     "unfinished",
     "S",
-    "Physics/Quantum Mechanics",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
