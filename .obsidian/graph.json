@@ -15,10 +15,52 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Math/Probability  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 7755028
+      }
+    },
+    {
+      "query": "path:Math/Geometry  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:unfinished  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Psychology  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:Chess  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
       }
     }
   ],
@@ -32,6 +74,6 @@
   "repelStrength": 7.5,
   "linkStrength": 0.546875,
   "linkDistance": 160,
-  "scale": 0.44821853828823527,
+  "scale": 0.07005643268442366,
   "close": true
 }
