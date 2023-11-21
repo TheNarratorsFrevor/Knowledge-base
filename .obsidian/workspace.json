@@ -11,8 +11,12 @@
             "id": "f06bcb8ca63a8a43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Analytic geometry and numeric functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Analytic geometry and numeric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +114,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "f06bcb8ca63a8a43",
   "lastOpenFiles": [
+    "Math/Probability/Statistics.md",
     "Physics/Thermodynamics/Thermodynamics.md",
     "Physi.md",
     "Physics/Thermodynamics/Microstates.md",
@@ -137,7 +143,6 @@
     "Physics/Classical physics",
     "Math/Probability/Probability.md",
     "Math/Mathematics.md",
-    "Math/Probability/Statistics.md",
     "Math/Unit circle.md",
     "Chemistry",
     "Math/Probability",
