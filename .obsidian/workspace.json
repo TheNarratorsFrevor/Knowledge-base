@@ -11,12 +11,8 @@
             "id": "edf735c5a716ca87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +111,17 @@
   },
   "active": "edf735c5a716ca87",
   "lastOpenFiles": [
+    "Math/Trigonometric equations.md",
+    "Physics/Ohm’s law.md",
+    "Physics/Surface Tension.md",
+    "Physics/Viscosity.md",
+    "Physics/Newton’s law of universal gravitation.md",
+    "Physics/Lagrangian Mechanics.md",
+    "Physics/Fluid Mechanics.md",
+    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
+    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
+    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
+    "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Analytic geometry and numeric functions.md",
     "Math/Probability/Statistics.md",
     "Physics/Thermodynamics/Thermodynamics.md",
@@ -124,26 +130,15 @@
     "Physics/Thermodynamics/Macrostate.md",
     "Physics/Thermodynamics/laws of thermodynamics.md",
     "Physics/Thermodynamics/Ideal Gas Law.md",
-    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Geometry/Ellipses.md",
     "TOLC-I/Syllabus checklist.md",
     "Math/Geometry/Circles.md",
     "Chemistry/Oxidation-reduction.md",
-    "Physics/Ohm’s law.md",
     "unfinished/Hamiltonian mechanics.md",
-    "Physics/Lagrangian Mechanics.md",
     "Physics/Newtonian Mechanics.md",
     "Physics/Bernoulli's Principle.md",
-    "Math/Maths.md",
-    "Physics/Physics.md",
-    "Physics/Optics.md",
     "Untitled.canvas",
-    "Physics/Electromagnetism/Electromagnetism.md",
-    "Physics/Classical physics/Classical Physics.md",
     "Physics/Classical physics",
-    "Math/Probability/Probability.md",
-    "Math/Mathematics.md",
     "Chemistry",
     "Math/Probability",
     "Physics/AP®︎ College Physics 1",
