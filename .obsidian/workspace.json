@@ -11,8 +11,12 @@
             "id": "edf735c5a716ca87",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unfinished/Schrödinger equation for hydrogen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unfinished/Schrödinger equation for hydrogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,8 @@
   },
   "active": "edf735c5a716ca87",
   "lastOpenFiles": [
+    "Math/Probability/Statistics.md",
+    "Math/Probability/Central Tendency.md",
     "Math/Trigonometric equations.md",
     "Physics/Ohm’s law.md",
     "Physics/Surface Tension.md",
@@ -123,7 +130,6 @@
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
     "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Analytic geometry and numeric functions.md",
-    "Math/Probability/Statistics.md",
     "Physics/Thermodynamics/Thermodynamics.md",
     "Physi.md",
     "Physics/Thermodynamics/Microstates.md",
@@ -136,7 +142,6 @@
     "Chemistry/Oxidation-reduction.md",
     "unfinished/Hamiltonian mechanics.md",
     "Physics/Newtonian Mechanics.md",
-    "Physics/Bernoulli's Principle.md",
     "Untitled.canvas",
     "Physics/Classical physics",
     "Chemistry",
