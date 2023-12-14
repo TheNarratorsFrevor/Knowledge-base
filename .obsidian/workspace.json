@@ -11,12 +11,8 @@
             "id": "edf735c5a716ca87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unfinished/Schrödinger equation for hydrogen.md",
+                "file": "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +112,7 @@
   },
   "active": "edf735c5a716ca87",
   "lastOpenFiles": [
+    "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Probability/Statistics.md",
     "Math/Probability/Central Tendency.md",
     "Math/Trigonometric equations.md",
@@ -128,7 +125,6 @@
     "Physics/Thermodynamics/Boltzmann's entropy formula.md",
     "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
     "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
     "Math/Analytic geometry and numeric functions.md",
     "Physics/Thermodynamics/Thermodynamics.md",
     "Physi.md",
