@@ -1,3 +1,4 @@
+
 [[Lecture notes]]
 
 Essentially, you need a procedure to force yourself to interact with the semantic content of what you're reading.
@@ -6,6 +7,7 @@ Essentially, you need a procedure to force yourself to interact with the semanti
 
 It's just a fancy name for "The meanings of the words that you are reading"
 you want a procedure that forces you to think through the idea of the text that you're reading, if you only read over the text you will not imprint the ideas and the knowledge inside that text onto your brain.
+
 
 #### Marginalia
 
