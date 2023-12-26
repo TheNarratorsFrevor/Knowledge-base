@@ -11,7 +11,25 @@
             "id": "709ed0237c0f55cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "This is a presentation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "90735dc5d1b2fdb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e156f0f3dae038",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -67,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "This is a presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,8 +129,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "709ed0237c0f55cf",
+  "active": "c012a2c197f616a6",
   "lastOpenFiles": [
+    "nord.css",
+    "This is a presentation.md",
     "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
     "Untitled.md",
     "Hello.md",
@@ -137,8 +157,6 @@
     "Physics/Thermodynamics/laws of thermodynamics.md",
     "Physics/Thermodynamics/Ideal Gas Law.md",
     "Math/Geometry/Ellipses.md",
-    "TOLC-I/Syllabus checklist.md",
-    "Math/Geometry/Circles.md",
     "Untitled.canvas",
     "Physics/Classical physics",
     "Chemistry",
