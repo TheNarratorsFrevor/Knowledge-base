@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "88c6f6593be30026",
+        "id": "7b9eb4bdff549295",
         "type": "tabs",
         "children": [
           {
-            "id": "709ed0237c0f55cf",
+            "id": "bbdbadfd3aead3cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "This is a presentation.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90735dc5d1b2fdb2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "87e156f0f3dae038",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -129,10 +115,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "bbdbadfd3aead3cb",
   "lastOpenFiles": [
-    "nord.css",
     "This is a presentation.md",
+    "nord.css",
     "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
     "Untitled.md",
     "Hello.md",
@@ -167,7 +153,6 @@
     "Psychology",
     "Psychology/Lecture notes",
     "unfinished",
-    "S",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

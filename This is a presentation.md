@@ -1,6 +1,6 @@
 ---
-title: "Hello, World!"
-theme: "nord.css"
+title: "Such is life"
+theme: "blood"
 highlightTheme: "monokai"
 controls: false
 enableMenu: false    # disable vscode reveal menu
