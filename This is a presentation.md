@@ -1,9 +1,9 @@
 ---
-title: "Such is life"
-theme: "blood"
-highlightTheme: "monokai"
+title: Such is life
+theme: blood
+highlightTheme: monokai
 controls: false
-enableMenu: false    # disable vscode reveal menu
+enableMenu: false
 ---
 
 # Hello, World!
