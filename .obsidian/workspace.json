@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f322c540248ded8",
+        "id": "7e0151a626816807",
         "type": "tabs",
         "children": [
           {
-            "id": "865ba0a0187fa3dc",
+            "id": "5c7604b43c7c29d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Hall effect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quantum Hall effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,35 +115,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "865ba0a0187fa3dc",
+  "active": "5c7604b43c7c29d5",
   "lastOpenFiles": [
-    "little's law.md",
     "This is a presentation.md",
-    "nord.css",
-    "Psychology/Lecture notes/Jeffery Kaplan/Lecture 9 - How to Read so that you retain Information.md",
-    "Untitled.md",
+    "little's law.md",
+    "Quantum Hall effect.md",
     "Hello.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
-    "Math/Probability/Statistics.md",
-    "Math/Probability/Central Tendency.md",
-    "Math/Trigonometric equations.md",
-    "Physics/Ohm’s law.md",
-    "Physics/Surface Tension.md",
-    "Physics/Viscosity.md",
-    "Physics/Newton’s law of universal gravitation.md",
-    "Physics/Lagrangian Mechanics.md",
-    "Physics/Fluid Mechanics.md",
-    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
-    "Physics/Black hole thermodynamics/Bekenstein-Hawking Entropy.md",
-    "Physics/Black hole thermodynamics/Black hole thermodynamics.md",
+    "Math/Unit circle.md",
+    "Math/Sine.md",
+    "Chess/Queen's Gambit.md",
+    "Math/Equations of lines.md",
+    "Math/exponential functions.md",
     "Math/Analytic geometry and numeric functions.md",
-    "Physics/Thermodynamics/Thermodynamics.md",
-    "Physi.md",
-    "Physics/Thermodynamics/Microstates.md",
+    "Programming/Haskell/GHCI.md",
+    "Physics/Bernoulli's Principle.md",
     "Physics/Thermodynamics/Macrostate.md",
+    "Physics/Thermodynamics/Microstates.md",
     "Physics/Thermodynamics/laws of thermodynamics.md",
     "Physics/Thermodynamics/Ideal Gas Law.md",
-    "Math/Geometry/Ellipses.md",
+    "Physics/Thermodynamics/Boltzmann's entropy formula.md",
+    "Physics/Electromagnetism/Electromagnetism.md",
+    "Math/Quadratic Trigonometric Equations.md",
+    "Math/Parallelepipeds.md",
+    "Math/Probability/Probability.md",
+    "Math/Probability/Mean.md",
+    "Math/Probability/Central Tendency.md",
+    "Math/Group theory/Groups.md",
+    "unfinished/Schrödinger equation for hydrogen.md",
+    "Programming/Haskell/Haskell pattern matching.md",
+    "nord.css",
     "Untitled.canvas",
     "Physics/Classical physics",
     "Chemistry",
