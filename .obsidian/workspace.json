@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "43b273e3379c57ee",
+        "id": "5f322c540248ded8",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3b58c00c30df15",
+            "id": "865ba0a0187fa3dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "little's law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b3d831a05229f473",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e242520ccc7f2040",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -85,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "little's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1a3b58c00c30df15",
+  "active": "865ba0a0187fa3dc",
   "lastOpenFiles": [
     "little's law.md",
     "This is a presentation.md",
