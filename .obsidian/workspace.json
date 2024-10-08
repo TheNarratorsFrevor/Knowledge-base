@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0151a626816807",
+        "id": "7b4391a063849440",
         "type": "tabs",
         "children": [
           {
-            "id": "5c7604b43c7c29d5",
+            "id": "4033980e8496262c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Hall effect.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Hall effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +110,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5c7604b43c7c29d5",
+  "active": "4033980e8496262c",
   "lastOpenFiles": [
+    "Eisenstein Criterion.md",
+    "F2 Polynomial operations.md",
+    "Quantum Hall effect.md",
+    "Untitled",
     "This is a presentation.md",
     "little's law.md",
-    "Quantum Hall effect.md",
     "Hello.md",
     "Math/Unit circle.md",
     "Math/Sine.md",
@@ -141,8 +139,6 @@
     "Math/Probability/Mean.md",
     "Math/Probability/Central Tendency.md",
     "Math/Group theory/Groups.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
-    "Programming/Haskell/Haskell pattern matching.md",
     "nord.css",
     "Untitled.canvas",
     "Physics/Classical physics",
@@ -153,7 +149,6 @@
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
     "Psychology/Lecture notes",
-    "unfinished",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
