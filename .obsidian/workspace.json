@@ -11,8 +11,12 @@
             "id": "4033980e8496262c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "n-d movement.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "n-d movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
   },
   "active": "4033980e8496262c",
   "lastOpenFiles": [
+    "n-d movement.md",
     "Eisenstein Criterion.md",
     "F2 Polynomial operations.md",
     "Quantum Hall effect.md",
@@ -138,7 +144,6 @@
     "Math/Probability/Probability.md",
     "Math/Probability/Mean.md",
     "Math/Probability/Central Tendency.md",
-    "Math/Group theory/Groups.md",
     "nord.css",
     "Untitled.canvas",
     "Physics/Classical physics",
