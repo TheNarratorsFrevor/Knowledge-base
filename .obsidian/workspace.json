@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4033980e8496262c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Hall effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13c80bd27024a25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Line Integrals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "green's ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Line Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,11 +116,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "13c80bd27024a25e",
   "lastOpenFiles": [
-    "Untitled",
+    "Green's Theorem.md",
+    "Line Integrals.md",
+    "Mutlivariable Calculus.md",
     "Quantum Hall effect.md",
-    "Untitled 1.md",
+    "Untitled",
     "n-d movement.md",
     "Eisenstein Criterion.md",
     "F2 Polynomial operations.md",
@@ -155,7 +145,6 @@
     "Physics/Electromagnetism/Electromagnetism.md",
     "Math/Quadratic Trigonometric Equations.md",
     "Math/Parallelepipeds.md",
-    "Math/Probability/Probability.md",
     "nord.css",
     "Untitled.canvas",
     "Physics/Classical physics",
