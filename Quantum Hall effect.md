@@ -44,7 +44,7 @@ where \( n \) is the electron density and \( n_B = \frac{eB}{h} \) is the magnet
 
 ### Fractional Quantum Hall Effect (FQHE)
 
-The FQHE occurs at certain fractional filling factors, such as \( \nu = \frac{1}{3} \) or \( \nu = \frac{5}{2} \). This phenomenon can be explained by considering electron-electron interactions and the emergence of collective excitations, leading to the formation of "composite fermions." The quantized Hall conductance for FQHE can be expressed as:
+The FQHE occurs at certain fractional filling factors, such as $\nu = \frac{1}{3}$ or $\nu = \frac{5}{2}$. This phenomenon can be explained by considering electron-electron interactions and the emergence of collective excitations, leading to the formation of "composite fermions." The quantized Hall conductance for FQHE can be expressed as:
 
 $$
 \sigma_{xy} = \frac{e^2}{h} \cdot \frac{p}{q}
