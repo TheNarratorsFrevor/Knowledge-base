@@ -8,7 +8,7 @@ Theories:
 6. [[Conservation Laws]]
 7. [[Energy Conservation]]
 8. [[Momentum Conservation]]
-9. [[Elasticity]]
+9. [[Springs & Elasticity]]
 10. [[Fluid Mechanics]]
 11. [[Thermodynamics]]
 12. [[Ideal Gas Laws]]

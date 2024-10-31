@@ -16,7 +16,7 @@ Theories:
 14. [[Rigid Body Dynamics]]
 15. [[Friction]]
 16. [[Fluid Mechanics]]
-17. [[Elasticity]]
+17. [[Springs & Elasticity]]
 18. [[Vibrations]]
 19. [[Pendulum Motion]]
 20. [[Equilibrium of Forces]]
