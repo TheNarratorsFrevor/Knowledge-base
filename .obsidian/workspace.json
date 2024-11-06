@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39b7431c392d0d3a",
+            "id": "ad72944135b64380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Springs & Elasticity.md",
-                "mode": "source",
+                "file": "Feistel function.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Springs & Elasticity"
-            }
-          },
-          {
-            "id": "bf184298326cd678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Hall effect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quantum Hall effect"
+              "title": "Feistel function"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +127,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bf184298326cd678",
+  "active": "ad72944135b64380",
   "lastOpenFiles": [
+    "DES.md",
+    "Feistel function.md",
+    "Quantum Hall effect.md",
     "assets/Pasted image 20241031113228.png",
     "Line Integrals.md",
     "Green's Theorem.md",
@@ -163,14 +151,12 @@
     "Work and Energy.md",
     "Newtonian Physics.md",
     "Mutlivariable Calculus.md",
-    "Quantum Hall effect.md",
     "Untitled",
     "n-d movement.md",
     "Eisenstein Criterion.md",
     "F2 Polynomial operations.md",
     "This is a presentation.md",
     "little's law.md",
-    "Hello.md",
     "nord.css",
     "Untitled.canvas",
     "Physics/Classical physics",
