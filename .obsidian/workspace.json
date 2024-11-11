@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n-d movement.md",
-                "mode": "source",
+                "file": "F2 Polynomial operations.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n-d movement"
+              "title": "F2 Polynomial operations"
             }
           }
         ]
@@ -129,6 +129,7 @@
   },
   "active": "900cd65f9aec2b19",
   "lastOpenFiles": [
+    "n-d movement.md",
     "exam list.md",
     "Density.md",
     "Feistel function.md",
@@ -154,7 +155,6 @@
     "Newtonian Physics.md",
     "Mutlivariable Calculus.md",
     "Untitled",
-    "n-d movement.md",
     "Eisenstein Criterion.md",
     "F2 Polynomial operations.md",
     "nord.css",
