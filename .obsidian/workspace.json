@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "4e1ed6a3077f549b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "2c8fd4865fbcbc7a",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9aa55f4bb7a42f98",
+  "active": "4e1ed6a3077f549b",
   "lastOpenFiles": [
     "Inclusion-Exclusion principle.md",
     "Euler's Totient function.md",
