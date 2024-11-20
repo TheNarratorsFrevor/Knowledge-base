@@ -39,12 +39,26 @@
             "id": "4e1ed6a3077f549b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "F2 Polynomial operations.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "F2 Polynomial operations"
+            }
+          },
+          {
+            "id": "86a70a74b114d241",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,8 +182,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4e1ed6a3077f549b",
+  "active": "86a70a74b114d241",
   "lastOpenFiles": [
+    "Physics/Quantum Mechanics/Heisenberg's Uncertainty Principle.md",
+    "Programming/C/C 36 - Complex numbers.md",
     "Inclusion-Exclusion principle.md",
     "Euler's Totient function.md",
     "F2 Polynomial operations.md",
@@ -195,8 +211,6 @@
     "Physics/Newtonian Mechanics.md",
     "Physics/Principles of geometric optics.md",
     "Physics/Physics.md",
-    "Work and Energy.md",
-    "Newtonian Physics.md",
     "Untitled",
     "nord.css",
     "Untitled.canvas",
