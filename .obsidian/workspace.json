@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "EDM-1"
             }
+          },
+          {
+            "id": "9c12bab16f11f0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ignore/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,10 +226,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6d2f6fd86570f352",
+  "active": "c012a2c197f616a6",
   "lastOpenFiles": [
-    "DM-5.md",
     "EDM-1.md",
+    "ignore/test.md",
+    "ignore",
+    "DM-5.md",
     "DM-4.md",
     "DM-3.md",
     "DM-2.md",
@@ -240,7 +256,6 @@
     "Conservation Laws.md",
     "Everything on conservative motion.md",
     "Springs & Elasticity.md",
-    "Physics/Classical physics/Classical Physics.md",
     "Untitled",
     "nord.css",
     "Untitled.canvas",
@@ -251,7 +266,6 @@
     "Psychology/Lecture notes/Jordan Peterson",
     "Psychology/Lecture notes/Jeffery Kaplan",
     "Psychology",
-    "Psychology/Lecture notes",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
