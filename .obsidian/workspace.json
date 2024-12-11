@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ignore/test.md",
+                "file": "ignore/reqs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "reqs"
             }
           }
         ],
@@ -226,10 +226,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c012a2c197f616a6",
+  "active": "9c12bab16f11f0fc",
   "lastOpenFiles": [
-    "EDM-1.md",
     "ignore/test.md",
+    "ignore/reqs.md",
+    "EDM-1.md",
     "ignore",
     "DM-5.md",
     "DM-4.md",
@@ -255,7 +256,6 @@
     "Programming/C/C 5 - Pointers.md",
     "Conservation Laws.md",
     "Everything on conservative motion.md",
-    "Springs & Elasticity.md",
     "Untitled",
     "nord.css",
     "Untitled.canvas",
