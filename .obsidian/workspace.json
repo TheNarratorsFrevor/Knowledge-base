@@ -36,19 +36,21 @@
             }
           },
           {
-            "id": "61a4182bdd3cf85f",
+            "id": "4e913ae16d46c375",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "ignore/paper-notes-entropywindow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "paper-notes-entropywindow"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,11 +157,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d73afffd5b251e81",
+  "active": "4e913ae16d46c375",
   "lastOpenFiles": [
+    "ignore/paper-notes-entropywindow.md",
+    "physics2-19-02-25.md",
+    "constrained Optimization.md",
+    "assets/Pasted image 20250303113846.png",
     "Eisenstein Criterion.md",
     "Euler's Totient function.md",
-    "physics2-19-02-25.md",
     "algorithm-17-02-25.md",
     "DM-2.md",
     "DM-4.md",
@@ -183,8 +188,6 @@
     "assets/Pasted image 20241031113228.png",
     "Line Integrals.md",
     "Green's Theorem.md",
-    "unfinished/Schrödinger equation for hydrogen.md",
-    "Bekenstein-Hawking entropy formula.md",
     "Untitled",
     "nord.css",
     "Untitled.canvas",
