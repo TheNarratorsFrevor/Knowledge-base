@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "ODEs - cheatsheet"
             }
+          },
+          {
+            "id": "c9f66d892721e271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partial derivatives.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Partial derivatives"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,10 +184,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ddccff6c63b99eba",
+  "active": "c9f66d892721e271",
   "lastOpenFiles": [
-    "ignore/paper-notes-entropywindow.md",
     "ODEs - cheatsheet.md",
+    "Partial derivatives.md",
+    "ignore/paper-notes-entropywindow.md",
     "physics2-19-02-25.md",
     "constrained Optimization.md",
     "assets/Pasted image 20250303113846.png",
@@ -200,7 +215,6 @@
     "DES.md",
     "Quantum Hall effect.md",
     "assets/Pasted image 20241031113228.png",
-    "Line Integrals.md",
     "Untitled",
     "nord.css",
     "Untitled.canvas",
