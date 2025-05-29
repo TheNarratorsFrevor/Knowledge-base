@@ -24,7 +24,7 @@ $$\frac{dy}{dx} = f(x)g(y) \Rightarrow \int \frac{1}{g(y)}\,dy = \int f(x)\,dx$$
 
 $$\frac{dy}{dx} + P(x)y = Q(x)$$  
 Integrating factor:  
-$$\mu(x) = e^{\int P(x)\,dx}$$  
+$$\mu(x) = Ce^{\int P(x)\,dx}$$  
 Solution:  
 $$y = \frac{1}{\mu(x)} \int \mu(x)Q(x)\,dx$$
 
