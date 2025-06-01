@@ -12,7 +12,7 @@ $$
 \nabla g = (g_x, g_y) = (2x, 2y)
 $$
 
-we impose the lagrange multiplier condition:  
+we impose the [[lagrange multipliers]] condition:  
 $$
 \nabla f = \lambda \nabla g
 $$
