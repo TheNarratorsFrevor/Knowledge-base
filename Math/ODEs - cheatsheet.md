@@ -75,7 +75,7 @@ Singular sol: eliminate $p$
 ### a. General Form
 
 $$a(x)y'' + b(x)y' + c(x)y = f(x)$$  
-- Homogeneous: $f(x) = 0$  
+- Homogeneowus: $f(x) = 0$  
 - Constant coeff: $a,b,c$ constants
 
 ---

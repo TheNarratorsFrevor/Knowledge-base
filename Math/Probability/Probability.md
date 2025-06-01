@@ -7,7 +7,7 @@ Theorems:
 5. [[Law of Total Probability]]
 6. [[Multiplication Rule]]
 7. [[Addition Rule]]
-8. [[Inclusion-Exclusion Principle]]
+8. [[Inclusion-Exclusion principle]]
 9. [[Bernoulli's Theorem]]
 10. [[Chebyshev's Inequality]]
 11. [[Markov's Inequality]]

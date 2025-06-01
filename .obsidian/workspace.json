@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Algorithms (maths and defs).md",
+                "file": "Comp-sci/Algorithms (maths and defs).md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DES.md",
+                "file": "Math/ODEs - cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DES"
+              "title": "ODEs - cheatsheet"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DES.md",
+                "file": "Math/ODEs - cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DES"
+              "title": "Backlinks for ODEs - cheatsheet"
             }
           },
           {
@@ -173,33 +173,34 @@
   },
   "active": "f28b86ee330690b2",
   "lastOpenFiles": [
-    "Programming/ds.md",
-    "class-notes/DM-3.md",
-    "class-notes/DM-2.md",
-    "class-notes/DM-1.md",
-    "Programming/Algorithms (maths and defs).md",
-    "class-notes",
-    "Programming/Algorithms basic.md",
-    "algorithm-17-02-25.md",
-    "lagrange multipliers.md",
-    "dual problem.md",
-    "lagrange multipliers.md",
-    "Math/constrained Optimization.md",
-    "bordered hessian[.md",
-    "karush-kuhn-tucker conditions.md",
-    "Physics/Bekenstein-Hawking entropy formula.md",
+    "Math/Mutlivariable Calculus.md",
+    "Math/ODEs - cheatsheet.md",
+    "Physics/Springs & Elasticity.md",
+    "Work and Energy.md",
+    "Untitled.md",
+    "This is a presentation.md",
+    "Physics/Quantum Hall effect.md",
+    "Math/Partial derivatives.md",
     "physics2-19-02-25.md",
-    "ignore/paper-notes-entropywindow.md",
-    "ODEs - cheatsheet.md",
-    "Partial derivatives.md",
-    "Programming/ds maths and def.md",
-    "Programming/C/C 12 - Manual memory allocation.md",
-    "assets/Pasted image 20250303113846.png",
-    "Eisenstein Criterion.md",
-    "Euler's Totient function.md",
-    "class-notes/DM-4.md",
-    "class-notes/DM-5.md",
+    "Physics/n-d movement.md",
+    "Newtonian Physics.md",
+    "Math/lagrange multipliers.md",
+    "little's law.md",
+    "Line Integrals.md",
+    "Math/Inclusion-Exclusion principle.md",
+    "karush-kuhn-tucker conditions.md",
+    "Math/Feistel function.md",
+    "Green's Theorem.md",
+    "Hello.md",
+    "Physics/Everything on conservative motion.md",
+    "exam list.md",
+    "Math/Euler's Totient function.md",
+    "Physics/Eisenstein Criterion.md",
+    "Math/dual problem.md",
     "EDM-1.md",
+    "Comp-sci/DES.md",
+    "class-notes",
+    "assets/Pasted image 20250303113846.png",
     "ignore",
     "assets/Pasted image 20241031113228.png",
     "Untitled",
