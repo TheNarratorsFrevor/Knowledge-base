@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "440ecf879cb24c81",
+        "id": "f20e6aa2dbd69eee",
         "type": "tabs",
         "children": [
           {
-            "id": "f28b86ee330690b2",
+            "id": "ef56c415756ad5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Comp-sci/ds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ds"
             }
           }
         ]
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Comp-sci/ds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +90,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for ds"
             }
           },
           {
@@ -128,10 +128,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f28b86ee330690b2",
+  "active": "ef56c415756ad5f7",
   "lastOpenFiles": [
-    "Comp-sci/Algorithms (maths and defs).md",
+    "class-notes/DM-2.md",
+    "Math/Group theory/Groups.md",
     "README.md",
+    "Comp-sci/Algorithms (maths and defs).md",
     "Math/ODEs - cheatsheet.md",
     "Math/Mutlivariable Calculus.md",
     "Physics/Springs & Elasticity.md",
@@ -154,8 +156,6 @@
     "exam list.md",
     "Math/Euler's Totient function.md",
     "Physics/Eisenstein Criterion.md",
-    "Math/dual problem.md",
-    "EDM-1.md",
     "class-notes",
     "assets/Pasted image 20250303113846.png",
     "ignore",
