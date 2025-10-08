@@ -16,4 +16,12 @@ theoretically we would like to say that objects are sets and haskell functions a
 Halting problem:
 there are problems where we can't find the answer in a finite amount of steps.
 we extend every type by one or more special value called the "Bottom", denoted by $\bot$, basically means non-term. comput.
-so a $f :: Bool \to Bool$ can return $True, False, \bot$. 
+so a $f :: Bool \to Bool$ can return $True, False, \bot$
+
+it is very easy to consider every error to just be bottom.
+funcs that return bottom are called partials, as opposed to total functions.
+total funcs return valid results for every possible arg,
+the category of functions and types will be referred to as $Hask$ rather than set.
+
+monoid
+monoid is a set with a binary operation, the op is associative. ''
