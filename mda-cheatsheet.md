@@ -271,4 +271,4 @@ p178+: evals (char poly → ker basis)
 **Pro tip**: Hand-compute 3×3 gauss REF, 2×2 char poly + ker evecs. Notes cutoff ~p185 but vecsp/matrices/sys/evs = 90% marks. [file:1]
 
 ---
-*be real: memorize rank-nullity + rouche-capelli or guaranteed partial credit only. afaict gauss elim > everything else combined for points. practice params extraction till reflex.*
+
