@@ -1,4 +1,4 @@
-<body>
+2<body>
 
 <hr>
 <h1 data-number="70" id="wctype"><span class="header-section-number">70</span> <code>&lt;wctype.h&gt;</code>
